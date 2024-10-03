@@ -7,6 +7,36 @@
 <!-- <a href="https://twitter.com/aaguirrejuan"><img src="https://img.shields.io/badge/-@aaguirrejuan-0077B5?style=flat-square&logo=Twitter&logoColor=white"/></a> -->
 </p>
 
+
+## About Me
+My work focuses on tackling (or at least trying to 😅) some challenges related to machine learning and data analysis. I specialize in designing frameworks to handle messy, real-world data, particularly in environments filled with noise, variability, and non-stationarity. Lately, I've been applying these ideas to practical fields like precision agriculture. Here, you’ll find my research projects, experiments, and tools that aim to push the boundaries of conventional machine learning methods.
+
+---
+
+
+## 🚀 Research Areas
+
+### 1. **Robust Multiple-Annotator Systems**
+Supervised learning traditionally relies on expert labeling, but when dealing with large datasets, this can be both costly and time-consuming. I work on alternative methods to handle multiple annotators, with varying expertise levels, through **Generalized Cross-Entropy-based Chained Deep Learning (GCECDL)**.
+
+- **Key Contributions:**
+  - Developed a framework that adapts to each annotator's non-stationary patterns and preserves inter-dependencies between them.
+  - Combines deep learning with a noise-robust loss function to tackle unreliable labelers.
+  - Achieves robust classification performance, outperforming state-of-the-art methods.
+
+<!--[Explore the repository](#) | [Read the paper](#)-->
+
+### 2. **Precision Agriculture and Non-Stationary Data Analysis**
+Agricultural management and crop optimization require the analysis of complex datasets, often characterized by high variability and non-linear relationships. My work in **Local Biplot** provides insights into such data, focusing on crop water status prediction.
+
+- **Key Contributions:**
+  - Introduced Local Biplot, a method combining **UMAP** with affine transformations and SVD decomposition to codify non-stationary data patterns.
+  - Applied the method to remote sensing data for precision agriculture, improving feature relevance and prediction accuracy.
+  - Enhanced interpretability and clustering performance for both synthetic and real-world datasets.
+
+<!--[Explore the repository](#) | [Read the paper](#)-->
+
+
 ## 💻 &nbsp; Technology and Tools Experience
 
 ### Programming Languages
