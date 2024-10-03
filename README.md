@@ -21,9 +21,6 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 
-
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
 <!--
 **Jectrianama/Jectrianama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
