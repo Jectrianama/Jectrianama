@@ -1,5 +1,9 @@
  ##  👋 Welcome!, Feel free to check out what I’m working on 👩‍💻
 
+## About Me
+My work focuses on tackling (or at least trying to 😅) some challenges related to machine learning and data analysis. I specialize in designing frameworks to handle messy, real-world data, particularly in environments filled with noise, variability, and non-stationarity. Lately, I've been applying these ideas to practical fields like precision agriculture. Here, you’ll find my research projects, experiments, and tools that aim to push the boundaries of conventional machine learning methods.
+
+
 <p align="center">
 <a href="https://www.linkedin.com/in/jenniffer-carolina-triana-martinez-76660833/"><img src="https://img.shields.io/badge/-Jenniffer%20Carolina%20Triana%20Martinez-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <!-- <a href="mailto:jucaguirrear@unal.edu.co"><img src="https://img.shields.io/badge/-jucaguirrear@unal.edu.co-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
@@ -8,8 +12,6 @@
 </p>
 
 
-## About Me
-My work focuses on tackling (or at least trying to 😅) some challenges related to machine learning and data analysis. I specialize in designing frameworks to handle messy, real-world data, particularly in environments filled with noise, variability, and non-stationarity. Lately, I've been applying these ideas to practical fields like precision agriculture. Here, you’ll find my research projects, experiments, and tools that aim to push the boundaries of conventional machine learning methods.
 
 ---
 
