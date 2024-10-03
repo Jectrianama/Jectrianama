@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<p align="center">
+<a href="https://www.linkedin.com/in/jenniffer-carolina-triana-martinez-76660833/"><img src="https://img.shields.io/badge/-Jenniffer%20Carolina%20Triana%20Martinez-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<!-- <a href="mailto:jucaguirrear@unal.edu.co"><img src="https://img.shields.io/badge/-jucaguirrear@unal.edu.co-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
+<!-- <a href="https://instagram.com/jucaguirre"><img src="https://img.shields.io/badge/-@__juan_aguirre__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> -->
+<!-- <a href="https://twitter.com/aaguirrejuan"><img src="https://img.shields.io/badge/-@aaguirrejuan-0077B5?style=flat-square&logo=Twitter&logoColor=white"/></a> -->
+</p>
+
 ## 💻 &nbsp; Technology and Tools Experience
 
 ### Programming Languages
