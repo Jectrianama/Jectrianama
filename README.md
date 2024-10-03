@@ -5,6 +5,7 @@
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ### Data Analysis and Machine Learning
 ![Data Analysis](https://img.shields.io/badge/-Data_analysis-informational?style=for-the-badge&logo=GooglePodcasts&logoColor=white&color=FFC98B)
@@ -19,6 +20,18 @@
 ![QGIS](https://img.shields.io/badge/QGIS-22.04-green?style=plastic&logo=qgis)
 ![GDAL](https://img.shields.io/badge/GDAL-%3E%3D3.0.4-blue)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+
+
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/aguirrejuan">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aguirrejuan&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aguirrejuan&hide=jupyter%20notebook&layout=compact&langs_count=8&theme=default"/>
+</a>
+</p>
 
 
 <!--
