@@ -23,6 +23,20 @@
 
 
 
+## Projects
+<table align="center">
+ <tr>
+   <td>
+      <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
+        <a href="https://github.com/UN-GCPDS/python-gcpds.localbiplot"> 
+          <img src="https://github.com/UN-GCPDS/python-gcpds.localbiplot/blob/main/docs/source/notebooks/_images/localbip_logo.png" alt="LocalBiplot" width="200"/>
+          <br><strong>UMAP-Based Local Biplot</strong>
+        </a>
+      </div>
+    </td>
+ </tr>
+ </table>
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 
