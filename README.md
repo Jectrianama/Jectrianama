@@ -80,7 +80,7 @@ Agricultural management and crop optimization require the analysis of complex da
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/aguirrejuan">
+<a href="https://github.com/jectrianama">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aguirrejuan&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jectrianama&hide=jupyter%20notebook&layout=compact&langs_count=8&theme=default"/>
 </a>
