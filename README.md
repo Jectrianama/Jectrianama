@@ -1,4 +1,9 @@
- ##  👋 Welcome!, Feel free to check out what I’m working on 👩‍💻
+
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=🙋🏻‍♀️%20Welcome!,%20Feel%20free%20to%20check%20out%20what%20I’m%20working%20on%20👩‍💻&fontSize=20&fontColor=ffff&descAlign=50&descAlignY=18" />
+
+
+
 
 ## About Me
 My work focuses on tackling (or at least trying to 😅) some challenges related to machine learning and data analysis. I specialize in designing frameworks to handle messy, real-world data, particularly in environments filled with noise, variability, and non-stationarity. Lately, I've been applying these ideas to practical fields like precision agriculture. Here, you’ll find my research projects, experiments, and tools that aim to push the boundaries of conventional machine learning methods.
